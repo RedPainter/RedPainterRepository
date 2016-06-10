@@ -1,10 +1,6 @@
 05/24/16 14:55:06:1	w3wp[1058:658]:  Storage,3: <IMProvisioning> Acquired cached site connection: 0000002BFAC00090 Connection CacheSize: 2
 05/24/16 14:55:06:1	w3wp[1058:658]:  ODBC,1: <IMProvisioning> OpenConnectionStart: DRIVER={SQL Server};SERVER=e75db01;Trusted_Connection=no;UID=eroomdbuser;;DATABASE=eRoom_eRoomSite
 05/24/16 14:55:06:1	w3wp[1058:658]:  ODBC,1: <IMProvisioning> OpenConnectionEnd: 0x0000002BF9AF2100
-05/24/16 14:55:06:1	w3wp[1058:390]:  Storage,3: <IMPresence> Acquired cached site connection: 0000002BFAF50090 Connection CacheSize: 1
-05/24/16 14:55:06:1	w3wp[1058:658]:  ODBC,3: <IMProvisioning> StartExecute of PersistCmd: kSetIsolationLevelCmd(182) on eRoom_eRoomSite
-05/24/16 14:55:06:1	w3wp[1058:390]:  ODBC,1: <IMPresence> OpenConnectionStart: DRIVER={SQL Server};SERVER=e75db01;Trusted_Connection=no;UID=eroomdbuser;;DATABASE=eRoom_eRoomSite
-05/24/16 14:55:06:1	w3wp[1058:390]:  ODBC,1: <IMPresence> OpenConnectionEnd: 0x0000002BF9AEFA30
 05/24/16 14:55:06:1	w3wp[1058:390]:  ODBC,3: <IMPresence> StartExecute of PersistCmd: kSetIsolationLevelCmd(182) on eRoom_eRoomSite
 05/24/16 14:55:06:1	w3wp[1058:658]:  ODBC,3: <IMProvisioning> EndExecute of PersistCmd: kSetIsolationLevelCmd(182)
 05/24/16 14:55:06:1	w3wp[1058:658]:  ODBC,3: <IMProvisioning> StartExecute of PersistCmd: kGetConnectionIDCmd(184) on eRoom_eRoomSite
